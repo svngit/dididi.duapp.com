@@ -1,3 +1,3 @@
 <?php
-	echo "Welcome to Baidu Cloud";
+	echo "Welcome to dididi Cloud";
 ?>
