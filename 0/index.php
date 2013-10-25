@@ -1,3 +1,3 @@
 <?php
-	echo "Welcome to lixin Cloud";
+	echo "Welcome to dididi  Cloud";
 ?>
